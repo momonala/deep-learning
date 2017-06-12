@@ -4,6 +4,25 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 
 There are also notebooks used as projects for the Nanodegree program. In the program itself, the projects are reviewed by Udacity experts, but they are available here as well.
 
+# Mohit's Version 
+
+This fork contains my project submissions, mini project edits, and other changes to the coursework. Specifically, Here are links to my work: 
+
+## Project 1: Neural Network from Scratch
+
+Built my own feedforward +back propogation + gradient descent neural network from scratch in numpy that works on the bike sharing dataset. 
+
+[Project 1](https://github.com/momonala/deep-learning/blob/master/first-neural-network/Your_first_neural_network.ipynb)
+
+### Sentiment Analysis mini-project 
+
+Worked through a IMBD  dataset to do sentiment analysis on movie reviews. I followed along and coded my own neural network that determines the positive/negative label of a review. I optimized the initial network by reducing noise from the input data, getting rid of redundant math operations, and reducing the input data size. The result was a 20% increase in testing accuracy and a 70x increase in training speed. 
+
+[Sentiment Analysis](https://github.com/momonala/deep-learning/blob/master/sentiment-network/Sentiment_Classification_Projects.ipynb)
+
+
+----------------------------------------------------------------------
+
 ## Table Of Contents
 
 ### Tutorials
