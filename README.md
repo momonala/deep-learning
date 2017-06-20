@@ -14,12 +14,19 @@ Built my own feedforward +back propogation + gradient descent neural network fro
 
 [Project 1](https://github.com/momonala/deep-learning/blob/master/first-neural-network/Your_first_neural_network.ipynb)
 
-### Sentiment Analysis mini-project 
+## Project 2: Cifar Image Classificaiton with a convnet 
 
-Worked through a IMBD  dataset to do sentiment analysis on movie reviews. I followed along and coded my own neural network that determines the positive/negative label of a review. I optimized the initial network by reducing noise from the input data, getting rid of redundant math operations, and reducing the input data size. The result was a 20% increase in testing accuracy and a 70x increase in training speed. 
+Built my own convnet in tensorflow to classify 10 images in the cifar dataset. Ran and tested on a Floyd cloud GPU. 
 
-[Sentiment Analysis](https://github.com/momonala/deep-learning/blob/master/sentiment-network/Sentiment_Classification_Projects.ipynb)
+[Project 2](https://github.com/momonala/deep-learning/blob/master/image-classification/dlnd_image_classification.ipynb)
 
+## Project 3: 
+
+TBD
+
+## Project 4: 
+
+TBD 
 
 ----------------------------------------------------------------------
 
