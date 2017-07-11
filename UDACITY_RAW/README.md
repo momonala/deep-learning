@@ -4,32 +4,6 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 
 There are also notebooks used as projects for the Nanodegree program. In the program itself, the projects are reviewed by Udacity experts, but they are available here as well.
 
-# Mohit's Version 
-
-This fork contains my project submissions, mini project edits, and other changes to the coursework. Specifically, Here are links to my work: 
-
-## Project 1: Neural Network from Scratch
-
-Built my own feedforward +back propogation + gradient descent neural network from scratch in numpy that works on the bike sharing dataset. 
-
-[Project 1](https://github.com/momonala/deep-learning/blob/master/first-neural-network/Your_first_neural_network.ipynb)
-
-## Project 2: Cifar Image Classificaiton with a convnet 
-
-Built my own convnet in tensorflow to classify 10 images in the cifar dataset. Ran and tested on a Floyd cloud GPU. 
-
-[Project 2](https://github.com/momonala/deep-learning/blob/master/image-classification/dlnd_image_classification.ipynb)
-
-## Project 3: 
-
-TBD
-
-## Project 4: 
-
-TBD 
-
-----------------------------------------------------------------------
-
 ## Table Of Contents
 
 ### Tutorials
