@@ -4,7 +4,7 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 
 Here are links to my projects: 
 
-## [Project 1: Neural Network from Scratch] (https://github.com/momonala/udacity_deeplearning_ND/blob/master/first-neural-network/Your_first_neural_network.ipynb)
+## [Project 1: Neural Network from Scratch](https://github.com/momonala/udacity_deeplearning_ND/blob/master/first-neural-network/Your_first_neural_network.ipynb)
 
 Built my own feedforward +back propogation + gradient descent neural network from scratch in numpy that works on the bike sharing dataset. 
 
@@ -22,9 +22,8 @@ Using an LSTM RNN to generate a Simpson's script - data from IMBD.
  
 Built a sequence-to-sequence Encoder/Decoder RNN to translate english to french. 
 
-## Project 5: 
+## [Project 5: Face Generation with GANs](https://github.com/momonala/udacity_deeplearning_ND/blob/master/face_generation/dlnd_face_generation.ipynb)
 
-TBD 
+Built a Generative Adverserial Network which generates faces trained from a celebrity image dataset. 
 
 ----------------------------------------------------------------------
-To see the full Udacity Repo, check out the UDACITY_RAW directory. 
